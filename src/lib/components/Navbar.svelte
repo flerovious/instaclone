@@ -1,7 +1,7 @@
 <script lang="ts">
 </script>
 
-<nav class="flex flex-row justify-evenly items-center px-32 shadow-sm">
+<nav class="flex flex-row justify-evenly items-center px-32 shadow-sm bg-white">
   <div class="basis-3/12 flex flex-row justify-start h-14">
     <p class="text-4xl self-center font-['Cookie']">Instaclone</p>
   </div>

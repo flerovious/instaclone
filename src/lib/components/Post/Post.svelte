@@ -4,7 +4,7 @@
   import PostMenu from './PostMenu.svelte';
 </script>
 
-<article class="bg-white rounded flex flex-col mx-96 my-4 shadow">
+<article class="bg-white rounded w-116 my-4 mx-auto shadow">
   <PostTop />
   <PostImage />
   <PostMenu />

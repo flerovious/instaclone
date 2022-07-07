@@ -7,7 +7,9 @@
   <title>Instaclone</title>
 </svelte:head>
 
-<div class="bg-neutral-50 min-h-screen">
+<div class="bg-neutral-50 h-full">
   <Navbar />
-  <Post />
+  {#each Array(2) as _, i}
+    <Post />
+  {/each}
 </div>
